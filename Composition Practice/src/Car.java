@@ -10,6 +10,7 @@ public class Car extends Vehicle {
 	
 	private String make;
 	private int year;
+	private int steeringWheel;
 	private Engine engine;
 	private Wheel[] wheels = new Wheel [4];
 	
